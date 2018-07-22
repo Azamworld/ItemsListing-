@@ -7,7 +7,7 @@ import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity {
 
-    String items [] = new String [] {"Product 1", "Product 2", "Product 3", "Product 4", "Product 5",};
+    String items [] = new String [] {"Cornflakes", "Pepper", "Oatmeal", "Fruit Cake", "Veg",};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
